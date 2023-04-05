@@ -8,13 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikmainjava&label=Profile%20views&color=0e75b6&style=flat" alt="erikmainjava" /> </p>
 
-<p align="left"> <a href="https://twitter.com/erikghghzjhh" target="blank"><img src="https://img.shields.io/twitter/follow/erikghghzjhh?logo=twitter&style=for-the-badge" alt="erikghghzjhh" /></a> </p>
-
 - 🔭 I’m currently working on **Discord Bot \ Mobile App**
 
 - 💬 Ask me about **About anything you want!**
 
 - 📫 How to reach me **Discord**
+- [My Website] (https://github.com/ErikDevelopment)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
