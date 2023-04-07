@@ -13,8 +13,7 @@
 - 💬 Ask me about **About anything you want!**
 
 - 📫 How to reach me **Discord**
-- [My Website](https://github.com/ErikDevelopment](https://erikdevelopment.github.io/github.io/)
-- [Link text](http://example.com)
+- [My Website](https://erikdevelopment.github.io/github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
