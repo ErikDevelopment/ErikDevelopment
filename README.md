@@ -14,7 +14,7 @@
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="on request only" height="30" width="40" /></a>
   
-- On request only!
+- Only on request!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
