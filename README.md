@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">I'm a Developer from Germany 🇩🇪</h3>
+
 - 🔭 I am currently working on my **education**
 
 - 📫 How to reach me **Discord**
