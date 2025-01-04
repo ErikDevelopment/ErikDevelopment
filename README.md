@@ -19,9 +19,10 @@
 ###
 
 <p align="left">👋 Hey, I'm Erik 👨‍💻, a developer passionate about bringing ideas to life 🚀.<br>
-  <br>- 🎓 I’m currently studying
-  <br>- 🌐 Check out my [Portfolio Page](https://erikdevelopment.github.io/portfolio/)  
-  <br>- 🌳 Explore my links on [Linktree](https://erikdevelopment.github.io/linktree/)
+  <br>-🎓 I’m currently studying
+  
+  -🌐 Check out my [Portfolio Page](https://erikdevelopment.github.io/portfolio/)  
+  <br>-🌳 Explore my links on [Linktree](https://erikdevelopment.github.io/linktree/)
 
 ###
 
