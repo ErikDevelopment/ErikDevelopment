@@ -44,10 +44,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
 </div>
-<!-- SCL -->
-<img style="margin: 10px" src="https://img.icons8.com/ios/50/000000/code.png" alt="SCL" height="50" title="Structured Control Language (SCL)" />
-<!-- TIA -->
-<img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/siemens.png" alt="TIA Portal" height="50" title="TIA Portal" />
+
+<img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/siemens.png" alt="TIA Portal" height="50" title="TIA Portal" />
+
 </div>
 </td><td valign="top" width="33%">
 
